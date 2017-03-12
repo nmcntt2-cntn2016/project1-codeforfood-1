@@ -1,9 +1,11 @@
-#Project 1: Ứng dụng báo thức thông minh
-             Trần Anh Hào – 1612850
+#Ứng dụng báo thức thông minh
+        Project 1 - CodeForFood team
+        
+             Trần Anh Hào    – 1612850
 
              Nguyễn Khắc Đức – 1612845
   
-             Hồ Trung Hiếu – 1612853
+             Hồ Trung Hiếu   – 1612853
 ##Mục tiêu
 Tạo nên một ứng dụng báo thức dành cho người hay ngủ nướng, sử dụng trên các thiết bị di động.
 ##Tình hình thực tiễn
