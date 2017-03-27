@@ -1,6 +1,7 @@
-- Chi tiết giao diện demo
+- Chi tiết demo
 - Dành cho ai
-- Free hay ko
+- Liên quan tới business
+- Vấn đề tháo cmn pin
 - App riêng hay server
 - Đối tượng, già trẻ thì trò chơi thế nào
 - Có gì đặc biệt hơn các pmem hiện có
